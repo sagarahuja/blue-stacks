@@ -1,0 +1,1 @@
+export const tabs = ['Upcoming Campaigns', 'Live Campaigns', 'Past Campaigns']
