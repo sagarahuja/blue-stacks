@@ -1,6 +1,6 @@
-# Star Wars
+# Blue stack
 
-A React application having two screens with proper navigation which will be using API from the website http://swapi.co
+A React application having campaign dashboard dispalying various gaming campaigns
 
 ## Installation
 
@@ -21,8 +21,4 @@ Public
 
 ## History
 
-Intial Commit 17/12/2019
-
-## Credits
-
-http://swapi.co
+Intial Commit 07/09/2020
