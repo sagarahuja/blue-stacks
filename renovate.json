@@ -4,14 +4,15 @@
     ],
     "packageRules": [
       {
-        "updateTypes": [
+        "matchUpdateTypes": [
+          "major",
           "minor",
           "patch"
         ],
         "automerge": true
       }
     ],
-    "timezone": "Europe/Madrid",
+    "timezone": "Asia/Kolkata",
     "schedule": [
       "after 10pm every weekday",
       "before 5am every weekday",
