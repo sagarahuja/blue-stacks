@@ -4,12 +4,12 @@
     ],
     "packageRules": [
       {
-        "matchUpdateTypes": [
-          "major",
-          "minor",
-          "patch"
-        ],
+        "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
         "automerge": true
+      },
+      {
+        "matchUpdateTypes": ["major"],
+        "automerge": false
       }
     ],
     "timezone": "Asia/Kolkata",
